@@ -1,4 +1,4 @@
-# Twitter Event Data and Evaluation
+# Twitter Event Data
 Tweet IDs of collected data and keywords which describe the events occurred during the selected time frames as ground truth
 
 ### Available data sets
@@ -8,7 +8,7 @@ Tweet IDs of collected data and keywords which describe the events occurred duri
 ### Folders and files
 - ground_truth - folder which contains ground truth labels as a set of .txt files named using starting time of event 
 occurred time window
-- time_windows - folder which contains the data correspond to the time windows used for this research
+- time_windows - folder which contains the data correspond to the time windows
 - ids_<start_time>-<end_time>.txt - file which contains the IDs of all extracted tweets during the mentioned time 
 (start_time-end_time)
 
@@ -18,9 +18,9 @@ For MUNLIV, 2 minute time windows and for BrexitVote, 30 minute time windows are
 (e.g. in MINLIV, 2019_10_20_15_30 represents the time window 2019-10-20 15:30 - 15:32 )
 - Keywords related to an event are mentioned in a single line in .txt file
 - Synonym (similar) words are grouped using [] (e.g. <b>[</b>kick off,kickoff,kick-off<b>]</b>) <br>
-Identification of at least one word from a synonym word group is sufficient during event keyword match
+Identification of at least one word from a synonym word group will be sufficient during event keyword match
 - Duplicate event keyword sets are separated using | (e.g. [full time,full-time,fulltime,FT][1-1,draw]<b>|</b>[over,end][1-1,draw]) <br>
-Identification of keywords in one duplicate set is sufficient during event identification
+Identification of keywords in one duplicate set will be sufficient during event identification
 
 ### Notes
 - All times mentioned with data sets and ground truth are in Coordinated Universal Time (UTC)
