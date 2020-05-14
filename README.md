@@ -1,7 +1,8 @@
 # Twitter Event Data
 These data sets consist of tweet IDs of collected data and keywords which describe the events occurred during the 
 selected time frames as ground truth. More details about the data sets can be 
-found from the reference paper <strong>"Embed2Detect: Temporally Clustered EmbeddedWords for Event Detection in Social Media"</strong> mentioned below. <br>
+found from the reference paper <strong>"Embed2Detect: Temporally Clustered EmbeddedWords for Event Detection in Social Media"</strong>
+ which is under review. <br>
 If you use these data sets in your research, please cite the below reference.
 
 ### Available data sets
@@ -30,7 +31,7 @@ Identification of keywords in one duplicate set will be sufficient during event 
 
 ### Reference
 ```
-@article{embed2detect,
+@article{Hettiarachchi2020embed2detect,
   title={Embed2Detect: Temporally Clustered EmbeddedWords for Event Detection in Social Media},
   author={Hettiarachchi, Hansi and Adedoyin-Olowe, Mariam and Bhogal, Jagdev and Gaber, Mohamed Medhat},
   year={2020}
