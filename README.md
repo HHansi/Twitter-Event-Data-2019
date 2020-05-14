@@ -1,5 +1,8 @@
 # Twitter Event Data
-Tweet IDs of collected data and keywords which describe the events occurred during the selected time frames as ground truth
+These data sets consists of tweet IDs of collected data and keywords which describe the events occurred during the 
+selected time frames as ground truth. More details about the data sets can be 
+found from the reference paper <strong>"Embed2Detect: Temporally Clustered EmbeddedWords for Event Detection in Social Media"</strong> mentioned below. <br>
+If you use these data sets in your research, please cite the below reference.
 
 ### Available data sets
 - MUNLIV - English Premier League 19/20 on 20 October 2019 between Manchester United and Liverpool
@@ -25,4 +28,11 @@ Identification of keywords in one duplicate set will be sufficient during event 
 ### Notes
 - All times mentioned with data sets and ground truth are in Coordinated Universal Time (UTC)
 
-
+### Reference
+```
+@article{embed2detect,
+  title={Embed2Detect: Temporally Clustered EmbeddedWords for Event Detection in Social Media},
+  author={Hettiarachchi, Hansi and Adedoyin-Olowe, Mariam and Bhogal, Jagdev and Gaber, Mohamed Medhat},
+  year={2020}
+}
+```
