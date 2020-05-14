@@ -1,5 +1,5 @@
 # Twitter Event Data
-These data sets consists of tweet IDs of collected data and keywords which describe the events occurred during the 
+These data sets consist of tweet IDs of collected data and keywords which describe the events occurred during the 
 selected time frames as ground truth. More details about the data sets can be 
 found from the reference paper <strong>"Embed2Detect: Temporally Clustered EmbeddedWords for Event Detection in Social Media"</strong> mentioned below. <br>
 If you use these data sets in your research, please cite the below reference.
