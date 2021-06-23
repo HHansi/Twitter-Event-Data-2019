@@ -1,9 +1,6 @@
 # Twitter Event Data
-These data sets consist of tweet IDs of collected data and keywords which describe the events occurred during the 
-selected time frames as ground truth. More details about the data sets can be 
-found from the reference paper <strong>"[Embed2Detect: Temporally Clustered Embedded Words for Event Detection in Social Media](http://arxiv.org/abs/2006.05908)"</strong>
- which is under review. <br>
-If you use these data sets in your research, please cite the below reference.
+These data sets consist of tweet IDs of collected data and keywords which describe the events occurred during the selected time frames as ground truth. More details about the data sets can be found from the reference paper <strong>"[Embed2Detect: Temporally Clustered Embedded Words for Event Detection in Social Media](https://link.springer.com/article/10.1007/s10994-021-05988-7)"</strong> <br>
+If you use these data sets in your research, please consider citing this paper and reference details are given below.
 
 ### Available data sets
 - MUNLIV - English Premier League 19/20 on 20 October 2019 between Manchester United and Liverpool
@@ -31,11 +28,12 @@ Identification of keywords in one duplicate set will be sufficient during event 
 
 ### Reference
 ```
-@article{Hettiarachchi2020Embed2DetectTC,
-  title={Embed2Detect: Temporally Clustered Embedded Words for Event Detection in Social Media},
-  author={Hansi Hettiarachchi and Mariam Adedoyin-Olowe and Jagdev Bhogal and Mohamed Medhat Gaber},
-  journal={ArXiv},
-  year={2020},
-  volume={abs/2006.05908}
+@article{hettiarachchi2021embed2detect,
+  title={Embed2Detect: Temporally clustered embedded words for event detection in social media},
+  author={Hettiarachchi, Hansi and Adedoyin-Olowe, Mariam and Bhogal, Jagdev and Gaber, Mohamed Medhat},
+  journal={Machine Learning},
+  pages={1--39},
+  year={2021},
+  publisher={Springer}
 }
 ```
