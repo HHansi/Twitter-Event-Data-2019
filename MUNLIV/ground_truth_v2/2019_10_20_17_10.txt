@@ -1,0 +1,2 @@
+[Fred,@Fred08oficial][ball,shot,shoot,shoots,fires,fire,movement]|[Fred,@Fred08oficial][wide]|[Fred,@Fred08oficial][nearly,close]
+[goal][Liverpool,LFC][Adam Lallana,Lallana,@officialAL20][1-1,1:1]|[goal][Liverpool,LFC][Adam Lallana,Lallana,@officialAL20][1]

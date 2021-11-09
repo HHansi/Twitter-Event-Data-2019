@@ -1,0 +1,3 @@
+[goal][Manchester United,Manchester,Man United,Man Utd,Manutd,MUFC][1-0][Marcus Rashford,Rashford,Marcus,@MarcusRashford]|[goal][Manchester United,Manchester,Man United,Man Utd,Manutd,MUFC][1][0][Marcus Rashford,Rashford,Marcus,@MarcusRashford]
+[VARCHECK][goal]|[VAR][check,checking,review][goal]
+[Divock Origi,Origi,Divock,@DivockOrigi][foul,fouled][@vlindelof,Victor Lindelof,Lindelof]

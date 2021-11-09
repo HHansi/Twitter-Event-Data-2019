@@ -1,0 +1,5 @@
+[Jeremy,Corbyn,@jeremycorbyn][chlorinated,chlorine][chicken]
+[Ken Clarke,Clarke,@KenClarke][EU,European Union][political,politically][strong,stronger][vote,agree,votes,voting,support,supports,supporting][deal]
+[ian,blackford,@ianblackfordmp][scotland][no,not,don't,doesn't][mentioned,afford,care,speak]|[ian,blackford,@ianblackfordmp][scotland][0,zero,shafted,down,2nd class nation]|[ian,blackford,@ianblackfordmp][scotlandshafted]|[ian,blackford,@ianblackfordmp][Northern Ireland,NI][13][scotland][0]
+[Jo Swinson,Jo,Swinson,@joswinson][worker,workers,worker's][right,rights]
+[Nigel,Dodds,@NigelDoddsDUP][fury][speech]

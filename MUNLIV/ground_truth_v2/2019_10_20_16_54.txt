@@ -1,0 +1,2 @@
+[Marcus Rashford,Rashford,Marcus,@MarcusRashford][wide][shot,ball,passing,effort,movement]|[Marcus Rashford,Rashford,Marcus,@MarcusRashford][miss,missed]|[Marcus Rashford,Rashford,Marcus,@MarcusRashford][nearly,close]
+[Adam Lallana,Lallana,@officialAL20][coming,on,replace,replaces]

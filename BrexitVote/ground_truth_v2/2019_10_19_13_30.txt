@@ -1,0 +1,2 @@
+[MPs,parliament][vote,voting][Letwin Amendment,letwinamendment,TheLetwinAmendment,Letwin]
+[Letwin Amendment,letwinamendment,TheLetwinAmendment,Letwin][pass,passed,passes,yes,ayes][322][no,nos,noes][306]|[Letwin Amendment,letwinamendment,TheLetwinAmendment,Letwin][322:306]

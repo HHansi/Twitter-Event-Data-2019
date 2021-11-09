@@ -1,0 +1,1 @@
+[VARCHECK,VAR][goal,1-1,equalise,equalises,equaliser,equalised]
