@@ -1,4 +1,4 @@
-# Twitter Event Data
+# Twitter Event Data (TED)
 These data sets consist of tweet IDs of collected data and keywords which describe the events occurred during the selected time frames as ground truth. More details about the data sets can be found from the reference paper <strong>"[Embed2Detect: Temporally Clustered Embedded Words for Event Detection in Social Media](https://link.springer.com/article/10.1007/s10994-021-05988-7)"</strong> <br>
 If you use these data sets in your research, please consider citing this paper and reference details are given below.
 
