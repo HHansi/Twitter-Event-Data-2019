@@ -40,3 +40,6 @@ Identification of keywords in one duplicate set will be sufficient during event 
   url = "https://doi.org/10.1007/s10994-021-05988-7",
 }
 ```
+
+### Extensions
+TED with sentiment labels is available as [TED-S](https://github.com/HHansi/TED-S).
